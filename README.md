@@ -1,5 +1,18 @@
 # subreddit-blocker
-This userscript will block any subreddits you chose.
+This userscript will block any political subreddits. Feel free to modify the list of subreddits yourself to meet your own needs. 
+
+By default it will block the following subreddits:
+- sandersforpresident
+- politics
+- worldpolitics
+- TrumpCriticizesTrump
+- coronavirus
+- The_Mueller
+- ourpresident
+- ABoringDystopia
+- politicalhumor
+- blackpeopletwitter
+- whitepeopletwitter
 
 ## Installation
 
