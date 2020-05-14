@@ -5,6 +5,8 @@
 // @include        *reddit.com/*
 // @version        1.0
 // @run-at document-start
+// @updateURL   https://raw.githubusercontent.com/Jonatino/subreddit-blocker/master/subreddit-blocker.user.js
+// @downloadURL https://raw.githubusercontent.com/Jonatino/subreddit-blocker/master/subreddit-blocker.user.js
 // ==/UserScript==
 
 const blocked = [
